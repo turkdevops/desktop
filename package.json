@@ -153,7 +153,7 @@
     "@types/react-dom": "^17.0.0",
     "@types/react-transition-group": "1.1.1",
     "@types/react-virtualized": "^9.7.12",
-    "@types/request": "^2.0.9",
+    "@types/request": "^2.48.5",
     "@types/semver": "^7.3.1",
     "@types/strip-ansi": "^3.0.0",
     "@types/temp": "^0.8.34",
