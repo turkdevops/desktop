@@ -1048,24 +1048,12 @@
   resolved "https://registry.yarnpkg.com/@types/legal-eagle/-/legal-eagle-0.15.0.tgz#3a3cf08edca425ffaf9518304c4f1efddea36e42"
   integrity sha512-ie9RF9s+tLFHDsydK7OqWEFYWOdqaxoLxWJBodTb5iYKdXqEYzv6mepSdYPmaPlOKGrvWeX19qry0mN3FdZ11A==
 
-"@types/loglevel@*":
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/@types/loglevel/-/loglevel-1.5.3.tgz#adfce55383edc5998a2170ad581b3e23d6adb5b8"
-  integrity sha512-TzzIZihV+y9kxSg5xJMkyIkaoGkXi50isZTtGHObNHRqAAwjGNjSCNPI7AUAv0tZUKTq9f2cdkCUd/2JVZUTrA==
-
 "@types/memoize-one@^5.1.2":
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/@types/memoize-one/-/memoize-one-5.1.2.tgz#9bed4199822f6ae759b2a0de855f3254104709b5"
   integrity sha512-9lItlM8Bf1DPvm8p4zE0vUn7YoTktEYgLd6Eva/PT0its200xmhaYrCMG/Y8615/f62SXOrDWMIEPk/xV+DQpw==
   dependencies:
     memoize-one "*"
-
-"@types/memory-fs@*":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@types/memory-fs/-/memory-fs-0.3.0.tgz#847596a94f9a9688a2e342f4017fcc0050e8e2da"
-  integrity sha1-hHWWqU+aloii40L0AX/MAFDo4to=
-  dependencies:
-    "@types/node" "*"
 
 "@types/mime@*":
   version "2.0.0"
@@ -1271,6 +1259,11 @@
   resolved "https://registry.yarnpkg.com/@types/tapable/-/tapable-1.0.2.tgz#e13182e1b69871a422d7863e11a4a6f5b814a4bd"
   integrity sha512-42zEJkBpNfMEAvWR5WlwtTH22oDzcMjFsL9gDGExwF8X8WvAiw7Vwop7hPw03QT8TKfec83LwbHj6SvpqM4ELQ==
 
+"@types/tapable@^1":
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@types/tapable/-/tapable-1.0.7.tgz#545158342f949e8fd3bfd813224971ecddc3fac4"
+  integrity sha512-0VBprVqfgFD7Ehb2vd8Lh9TG3jP98gvr8rgehQqzztZNI7o8zS8Ad4jyZneKELphpuE212D8J70LnSNQSyO6bQ==
+
 "@types/temp@^0.8.34":
   version "0.8.34"
   resolved "https://registry.yarnpkg.com/@types/temp/-/temp-0.8.34.tgz#03e4b3cb67cbb48c425bbf54b12230fef85540ac"
@@ -1336,15 +1329,13 @@
   dependencies:
     "@types/webpack" "*"
 
-"@types/webpack-dev-middleware@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@types/webpack-dev-middleware/-/webpack-dev-middleware-2.0.1.tgz#516d953602d9e8ac72ca1196969969d580d4b0a6"
-  integrity sha512-KdhyIEh8pYJvnUGp+MTMam23SN100UUSEkfVZDvboY94VTnAeQ6cuB5iweVne/B+rt5PGNzEHlp7XOp8pODvjg==
+"@types/webpack-dev-middleware@^4.1.2":
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/@types/webpack-dev-middleware/-/webpack-dev-middleware-4.1.2.tgz#c683adc6a44d0b66e98f1932ab33d1c32d558142"
+  integrity sha512-SxXzPCqeZ03fJ2dg3iD7cSXvqZymmS5/2GD9fANRcyWN7HYK1H3ty6q7IInXZKvPrdUqij831G3RLIeKK6aGdw==
   dependencies:
     "@types/connect" "*"
-    "@types/loglevel" "*"
-    "@types/memory-fs" "*"
-    "@types/webpack" "*"
+    "@types/webpack" "^4"
 
 "@types/webpack-hot-middleware@^2.16.3":
   version "2.16.3"
@@ -1379,14 +1370,14 @@
     tapable "^2.2.0"
     webpack "^5"
 
-"@types/webpack@^4.4.31":
-  version "4.41.25"
-  resolved "https://registry.yarnpkg.com/@types/webpack/-/webpack-4.41.25.tgz#4d3b5aecc4e44117b376280fbfd2dc36697968c4"
-  integrity sha512-cr6kZ+4m9lp86ytQc1jPOJXgINQyz3kLLunZ57jznW+WIAL0JqZbGubQk4GlD42MuQL5JGOABrxdpqqWeovlVQ==
+"@types/webpack@^4", "@types/webpack@^4.4.31":
+  version "4.41.27"
+  resolved "https://registry.yarnpkg.com/@types/webpack/-/webpack-4.41.27.tgz#f47da488c8037e7f1b2dbf2714fbbacb61ec0ffc"
+  integrity sha512-wK/oi5gcHi72VMTbOaQ70VcDxSQ1uX8S2tukBK9ARuGXrYM/+u4ou73roc7trXDNmCxCoerE8zruQqX/wuHszA==
   dependencies:
     "@types/anymatch" "*"
     "@types/node" "*"
-    "@types/tapable" "*"
+    "@types/tapable" "^1"
     "@types/uglify-js" "*"
     "@types/webpack-sources" "*"
     source-map "^0.6.0"
