@@ -121,7 +121,7 @@
     "webpack-merge": "^5.7.3",
     "xml2js": "^0.4.23",
     "xvfb-maybe": "^0.2.1",
-    "snyk": "^1.374.0"
+    "snyk": "^1.518.0"
   },
   "devDependencies": {
     "@types/byline": "^4.2.31",
