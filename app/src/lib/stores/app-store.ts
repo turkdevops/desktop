@@ -1521,6 +1521,7 @@ export class AppStore extends TypedBaseStore<IAppState> {
     if (previousRepositoryId !== null) {
       recentRepositories.unshift(previousRepositoryId)
     }
+    recentRepositories.unshift(currentRepositoryId)
     const slicedRecentRepositories = recentRepositories.slice(
       0,
       RecentRepositoriesLength
