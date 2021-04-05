@@ -919,10 +919,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/fuzzaldrin-plus@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@types/fuzzaldrin-plus/-/fuzzaldrin-plus-0.0.1.tgz#bfe5e25bc5b4066848171baf7a8aaf30e267d30a"
-  integrity sha1-v+XiW8W0BmhIFxuveoqvMOJn0wo=
+"@types/fuzzaldrin-plus@^0.6.1":
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/@types/fuzzaldrin-plus/-/fuzzaldrin-plus-0.6.1.tgz#818d00303d3f83190cdcf9d4496eded40d05576f"
+  integrity sha512-UFGM/hVBPlttAqSDMbYdupckngYNY/DAYBPHrHw4Pl2bK3mPwSabhkRHK1uK9udi5KZG/qX7D6z1/Jo5smTJFw==
 
 "@types/glob@^5.0.35":
   version "5.0.35"
