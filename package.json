@@ -64,7 +64,7 @@
     "ajv": "^6.12.3",
     "awesome-node-loader": "^1.1.1",
     "awesome-typescript-loader": "^5.2.1",
-    "aws-sdk": "^2.874.0",
+    "aws-sdk": "^2.885.0",
     "babel-core": "^6.26.3",
     "babel-jest": "^23.4.2",
     "babel-minify-webpack-plugin": "^0.3.1",
