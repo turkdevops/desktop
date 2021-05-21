@@ -1048,24 +1048,12 @@
   resolved "https://registry.yarnpkg.com/@types/legal-eagle/-/legal-eagle-0.15.0.tgz#3a3cf08edca425ffaf9518304c4f1efddea36e42"
   integrity sha512-ie9RF9s+tLFHDsydK7OqWEFYWOdqaxoLxWJBodTb5iYKdXqEYzv6mepSdYPmaPlOKGrvWeX19qry0mN3FdZ11A==
 
-"@types/loglevel@*":
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/@types/loglevel/-/loglevel-1.5.3.tgz#adfce55383edc5998a2170ad581b3e23d6adb5b8"
-  integrity sha512-TzzIZihV+y9kxSg5xJMkyIkaoGkXi50isZTtGHObNHRqAAwjGNjSCNPI7AUAv0tZUKTq9f2cdkCUd/2JVZUTrA==
-
 "@types/memoize-one@^5.1.2":
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/@types/memoize-one/-/memoize-one-5.1.2.tgz#9bed4199822f6ae759b2a0de855f3254104709b5"
   integrity sha512-9lItlM8Bf1DPvm8p4zE0vUn7YoTktEYgLd6Eva/PT0its200xmhaYrCMG/Y8615/f62SXOrDWMIEPk/xV+DQpw==
   dependencies:
     memoize-one "*"
-
-"@types/memory-fs@*":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@types/memory-fs/-/memory-fs-0.3.0.tgz#847596a94f9a9688a2e342f4017fcc0050e8e2da"
-  integrity sha1-hHWWqU+aloii40L0AX/MAFDo4to=
-  dependencies:
-    "@types/node" "*"
 
 "@types/mime@*":
   version "2.0.0"
@@ -1336,15 +1324,14 @@
   dependencies:
     "@types/webpack" "*"
 
-"@types/webpack-dev-middleware@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@types/webpack-dev-middleware/-/webpack-dev-middleware-2.0.1.tgz#516d953602d9e8ac72ca1196969969d580d4b0a6"
-  integrity sha512-KdhyIEh8pYJvnUGp+MTMam23SN100UUSEkfVZDvboY94VTnAeQ6cuB5iweVne/B+rt5PGNzEHlp7XOp8pODvjg==
+"@types/webpack-dev-middleware@^4.3.0":
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/@types/webpack-dev-middleware/-/webpack-dev-middleware-4.3.0.tgz#45798564defdf4573cfe0458d1ab0fe4e9421115"
+  integrity sha512-J/dgC7QCZOMHINFFtz7aOJSFmiwHQujTHMtQFRMCobG9dfsLMfN9p5Vb8QPzjLZVY1q2+W5vHWpF5AoQnW2oRg==
   dependencies:
     "@types/connect" "*"
-    "@types/loglevel" "*"
-    "@types/memory-fs" "*"
-    "@types/webpack" "*"
+    tapable "^2.2.0"
+    webpack "^5"
 
 "@types/webpack-hot-middleware@^2.16.3":
   version "2.16.3"
