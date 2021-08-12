@@ -957,10 +957,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/fuzzaldrin-plus@^0.6.1":
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/@types/fuzzaldrin-plus/-/fuzzaldrin-plus-0.6.1.tgz#818d00303d3f83190cdcf9d4496eded40d05576f"
-  integrity sha512-UFGM/hVBPlttAqSDMbYdupckngYNY/DAYBPHrHw4Pl2bK3mPwSabhkRHK1uK9udi5KZG/qX7D6z1/Jo5smTJFw==
+"@types/fuzzaldrin-plus@^0.6.2":
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/@types/fuzzaldrin-plus/-/fuzzaldrin-plus-0.6.2.tgz#cce60068fc9390e2248b75afcce717a8ca6da502"
+  integrity sha512-f9QkOre3T9YI1+Pd6CVgt0rY/KiPFlYHhbKXmjDYZVbIgOLDls1k22nuIq7skIGz/tS4f5gRRWW6wR2B2dWEqQ==
 
 "@types/glob@^5.0.35":
   version "5.0.35"
