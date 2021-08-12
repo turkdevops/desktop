@@ -956,10 +956,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/fuzzaldrin-plus@^0.6.1":
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/@types/fuzzaldrin-plus/-/fuzzaldrin-plus-0.6.1.tgz#818d00303d3f83190cdcf9d4496eded40d05576f"
-  integrity sha512-UFGM/hVBPlttAqSDMbYdupckngYNY/DAYBPHrHw4Pl2bK3mPwSabhkRHK1uK9udi5KZG/qX7D6z1/Jo5smTJFw==
+"@types/fuzzaldrin-plus@^0.6.2":
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/@types/fuzzaldrin-plus/-/fuzzaldrin-plus-0.6.2.tgz#cce60068fc9390e2248b75afcce717a8ca6da502"
+  integrity sha512-f9QkOre3T9YI1+Pd6CVgt0rY/KiPFlYHhbKXmjDYZVbIgOLDls1k22nuIq7skIGz/tS4f5gRRWW6wR2B2dWEqQ==
 
 "@types/glob@^5.0.35":
   version "5.0.35"
@@ -1251,12 +1251,10 @@
   resolved "https://registry.yarnpkg.com/@types/semver/-/semver-5.5.0.tgz#146c2a29ee7d3bae4bf2fcb274636e264c813c45"
   integrity sha512-41qEJgBH/TWgo5NFSvBCJ1qkoi3Q6ONSF2avrHq1LVEZfYpdHmj0y9SuTK+u9ZhG1sYQKBL1AWXKyLWP4RaUoQ==
 
-"@types/semver@^7.3.1":
-  version "7.3.1"
-  resolved "https://registry.yarnpkg.com/@types/semver/-/semver-7.3.1.tgz#7a9a5d595b6d873f338c867dcef64df289468cfa"
-  integrity sha512-ooD/FJ8EuwlDKOI6D9HWxgIgJjMg2cuziXm/42npDC8y4NjxplBUn9loewZiBNCt44450lHAU0OSb51/UqXeag==
-  dependencies:
-    "@types/node" "*"
+"@types/semver@^7.3.8":
+  version "7.3.8"
+  resolved "https://registry.yarnpkg.com/@types/semver/-/semver-7.3.8.tgz#508a27995498d7586dcecd77c25e289bfaf90c59"
+  integrity sha512-D/2EJvAlCEtYFEYmmlGwbGXuK886HzyCc3nZX/tkFTQdEU8jZDAgiv08P162yB17y4ZXZoq7yFAnW4GDBb9Now==
 
 "@types/serve-static@*":
   version "1.13.1"
