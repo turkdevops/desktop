@@ -144,7 +144,7 @@
     "@types/legal-eagle": "^0.15.0",
     "@types/memoize-one": "^5.1.2",
     "@types/mini-css-extract-plugin": "^2.2.0",
-    "@types/moment-duration-format": "^2.2.2",
+    "@types/moment-duration-format": "^2.2.3",
     "@types/mri": "^1.1.1",
     "@types/node": "12.12.24",
     "@types/prettier": "^2.0.1",
