@@ -801,10 +801,10 @@
     "@types/express" "*"
     "@types/node" "*"
 
-"@types/byline@^4.2.31":
-  version "4.2.31"
-  resolved "https://registry.yarnpkg.com/@types/byline/-/byline-4.2.31.tgz#0e61fcb9c03e047d21c4496554c7116297ab60cd"
-  integrity sha1-DmH8ucA+BH0hxEllVMcRYperYM0=
+"@types/byline@^4.2.33":
+  version "4.2.33"
+  resolved "https://registry.yarnpkg.com/@types/byline/-/byline-4.2.33.tgz#001f504f4353b84c503e74da0ed9bdf291484af2"
+  integrity sha512-LJYez7wrWcJQQDknqZtrZuExMGP0IXmPl1rOOGDqLbu+H7UNNRfKNuSxCBcQMLH1EfjeWidLedC/hCc5dDfBog==
   dependencies:
     "@types/node" "*"
 
