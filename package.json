@@ -124,7 +124,7 @@
     "snyk": "^1.684.0"
   },
   "devDependencies": {
-    "@types/byline": "^4.2.31",
+    "@types/byline": "^4.2.33",
     "@types/classnames": "^2.3.1",
     "@types/clean-webpack-plugin": "^0.1.3",
     "@types/codemirror": "5.60.2",
