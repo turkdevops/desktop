@@ -1360,10 +1360,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-virtualized@^9.7.12":
-  version "9.7.14"
-  resolved "https://registry.yarnpkg.com/@types/react-virtualized/-/react-virtualized-9.7.14.tgz#4ce4b1f4a8d242edf317c7f798852788150a0040"
-  integrity sha512-3FBEYOfq9Ez7n9kLF1xBE/0noIKeo/hr6sGdeWdf31SOCqaXrcGHCmGzsk37jBCVHPxmwVVbxQmZRccVAKLjYQ==
+"@types/react-virtualized@^9.21.13":
+  version "9.21.13"
+  resolved "https://registry.yarnpkg.com/@types/react-virtualized/-/react-virtualized-9.21.13.tgz#4222173abe7c9ed7504c75886c8367502ac7b9f1"
+  integrity sha512-tCIQ5wDKj+QJ3sMzjPKSLY0AXsznt+ovAUcq+JCLjPBOcAHbPt4FraGT9HKYEFfmp9E6+ELuN49i5bWtuBmi3w==
   dependencies:
     "@types/prop-types" "*"
     "@types/react" "*"
