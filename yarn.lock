@@ -1525,10 +1525,12 @@
   dependencies:
     "@types/source-map" "*"
 
-"@types/untildify@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@types/untildify/-/untildify-3.0.0.tgz#cd3e6624e46ccf292d3823fb48fa90dda0deaec0"
-  integrity sha512-FTktI3Y1h+gP9GTjTvXBP5v8xpH4RU6uS9POoBcGy4XkS2Np6LNtnP1eiNNth4S7P+qw2c/rugkwBasSHFzJEg==
+"@types/untildify@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@types/untildify/-/untildify-4.0.0.tgz#48f51e62b38baf7244fa527eacd3d9f605540e14"
+  integrity sha512-AoSIFVSN4k0l6yD2QKw2TWQkhH3sKsDpke2ozD69WfjPiDmoNJjah+oPUfiJTdCZZqC7pdEq8c5p8vdm5hvn9Q==
+  dependencies:
+    untildify "*"
 
 "@types/uuid@^8.3.0", "@types/uuid@^8.3.1":
   version "8.3.1"
@@ -13620,6 +13622,11 @@ unset-value@^1.0.0:
   dependencies:
     has-value "^0.3.1"
     isobject "^3.0.0"
+
+untildify@*:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/untildify/-/untildify-4.0.0.tgz#2bc947b953652487e4600949fb091e3ae8cd919b"
+  integrity sha512-KK8xQ1mkzZeg9inewmFVDNkg3l5LUhoq9kN6iWYB/CC9YMG8HA+c1Q8HwDe6dEX7kErrEVNVBO3fWsVq5iDgtw==
 
 upath@2.0.1:
   version "2.0.1"
