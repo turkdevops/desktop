@@ -100,7 +100,7 @@
     "prettier": "2.3.2",
     "request": "^2.88.2",
     "rimraf": "^3.0.2",
-    "sass-loader": "^7.3.1",
+    "sass-loader": "^12.1.0",
     "semver": "^7.3.4",
     "spectron": "15.0.0",
     "stop-build": "^1.1.0",
