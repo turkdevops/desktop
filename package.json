@@ -146,7 +146,7 @@
     "@types/mini-css-extract-plugin": "^2.2.0",
     "@types/moment-duration-format": "^2.2.3",
     "@types/mri": "^1.1.1",
-    "@types/node": "16.7.10",
+    "@types/node": "16.10.2",
     "@types/prettier": "^2.3.2",
     "@types/react": "^17.0.24",
     "@types/react-css-transition-replace": "^2.1.4",
