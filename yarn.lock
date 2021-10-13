@@ -839,10 +839,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/legal-eagle@^0.15.0":
-  version "0.15.0"
-  resolved "https://registry.yarnpkg.com/@types/legal-eagle/-/legal-eagle-0.15.0.tgz#3a3cf08edca425ffaf9518304c4f1efddea36e42"
-  integrity sha512-ie9RF9s+tLFHDsydK7OqWEFYWOdqaxoLxWJBodTb5iYKdXqEYzv6mepSdYPmaPlOKGrvWeX19qry0mN3FdZ11A==
+"@types/legal-eagle@^0.15.1":
+  version "0.15.1"
+  resolved "https://registry.yarnpkg.com/@types/legal-eagle/-/legal-eagle-0.15.1.tgz#7618ebaa95dfa9a8beb117ab5eb34c179bb18f71"
+  integrity sha512-hyc5DEU3CyjrXChjH4m/wvLmU1TetS69E2HoOtI5w/EONIyMFmfS0LHHmjJ+ugDHWg8iIM+FO59B7ZxIwOFHFA==
 
 "@types/memoize-one@^5.1.2":
   version "5.1.2"
