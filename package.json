@@ -127,7 +127,7 @@
     "@types/byline": "^4.2.33",
     "@types/classnames": "^2.3.1",
     "@types/clean-webpack-plugin": "^0.1.3",
-    "@types/codemirror": "5.60.4",
+    "@types/codemirror": "5.60.5",
     "@types/double-ended-queue": "^2.1.1",
     "@types/electron-packager": "^15.0.1",
     "@types/electron-winstaller": "^4.0.0",
