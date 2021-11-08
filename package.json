@@ -104,7 +104,7 @@
     "semver": "^7.3.4",
     "spectron": "15.0.0",
     "stop-build": "^1.1.0",
-    "style-loader": "^3.3.0",
+    "style-loader": "^3.3.1",
     "to-camel-case": "^1.0.0",
     "ts-jest": "^24.3.0",
     "ts-node": "^10.4.0",
