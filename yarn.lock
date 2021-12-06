@@ -2153,10 +2153,10 @@ awesome-typescript-loader@^5.2.1:
     source-map-support "^0.5.3"
     webpack-log "^1.2.0"
 
-aws-sdk@^2.1027.0:
-  version "2.1027.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.1027.0.tgz#64688b27607aade2df8de380f5852d67855f1f9b"
-  integrity sha512-j3UjPV9hzyCvkmfcbhRscMggdmrPqlhvo8QzkXCGFfPXjZMh1OJd4HkCEH2NaunzLOyF2Y3QzxKrGOLMT7sNzg==
+aws-sdk@^2.1044.0:
+  version "2.1044.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.1044.0.tgz#0708eaf48daf8d961b414e698d84e8cd1f82c4ad"
+  integrity sha512-n55uGUONQGXteGGG1QlZ1rKx447KSuV/x6jUGNf2nOl41qMI8ZgLUhNUt0uOtw3qJrCTanzCyR/JKBq2PMiqEQ==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
